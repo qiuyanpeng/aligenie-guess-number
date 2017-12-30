@@ -1,5 +1,5 @@
 # aligenie-guess-number
-guess number app on AliGenie
+guess number app webhook on AliGenie
 
 https://open.bot.tmall.com/console/skill/4708/basic
 
