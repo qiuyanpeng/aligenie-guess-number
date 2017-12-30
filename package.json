@@ -1,0 +1,22 @@
+{
+  "name": "aligenie-guess-number",
+  "version": "1.0.0",
+  "description": "guess number app on AliGenie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiuyanpeng/aligenie-guess-number.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qiuyanpeng/aligenie-guess-number/issues"
+  },
+  "homepage": "https://github.com/qiuyanpeng/aligenie-guess-number#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
